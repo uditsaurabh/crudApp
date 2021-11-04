@@ -2,6 +2,7 @@ import BookTablePage from "./pages/BookTablePage";
 import { Switch, Route } from "react-router-dom";
 import AddBook from "./pages/AddBook";
 import EditBook from "./pages/EditBook";
+
 function App() {
   return (
     <Switch>
